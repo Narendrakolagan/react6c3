@@ -1,0 +1,21 @@
+.bg-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffc2a0;
+}
+
+.container {
+  width: 95%;
+  background-color: white;
+
+  border-radius: 20px;
+}
+.main-heading {
+  font-size: 25px;
+  color: #ff8542;
+  text-align: center;
+}
